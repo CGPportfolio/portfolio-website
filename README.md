@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-web.charleshappy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:web.charleshappy@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-cgpportfolio.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://cgpportfolio.com)
-[![South Vibe Coding Club](https://img.shields.io/badge/South%20Vibe%20Coding%20Club-southvibecoding.com-4B32C3?style=flat-square&logo=codeforces&logoColor=white)](https://southvibecoding.com)
+[![DataMCE](https://img.shields.io/badge/DataMCE-datamce.com-4B32C3?style=flat-square&logo=snowflake&logoColor=white)](https://datamce.com)
 
 </div>
 
