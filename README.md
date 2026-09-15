@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a Computer Science & AI student at Stevens Institute of Technology (iSTEM), based in Hoboken, NJ. I build full-stack web apps, data platforms, and games — and I founded a coding club to help other students do the same.
+I'm a Computer Science & AI student at Stevens Institute of Technology, based in Hoboken, NJ. I build full-stack web apps, data platforms, and games — and I founded a coding club to help other students do the same.
 
-- 🎓 Studying Computer Science & AI at Stevens Institute of Technology (Class of 2030)
+- 🎓 Studying Computer Science & AI at Stevens Institute of Technology, part of the **[iSTEM](https://https://www.stevens.edu/istem)** program (Class of 2030)
 - 🚀 Founder of **[DataMCE](https://datamce.com)** — Data & AI Student Innovators Program (SQL, Snowflake, AI)
 - 🚀 Founder of **[South Vibe Coding Club](https://southvibecoding.com)** — 30+ members
 - 💼 Former Finance/Data Intern at **NovoCPA** (Summer 2025)
