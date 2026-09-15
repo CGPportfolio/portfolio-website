@@ -67,14 +67,6 @@ I'm a Computer Science & AI student at Stevens Institute of Technology, based in
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgpportfolio&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgpportfolio&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
