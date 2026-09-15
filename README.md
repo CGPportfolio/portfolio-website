@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+# Charles Goncharov-Pitts
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**Computer Science & AI Student · Stevens Institute of Technology, Class of 2030**
 
-## How can I edit this code?
+[![Email](https://img.shields.io/badge/Email-web.charleshappy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:web.charleshappy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cgpportfolio.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://cgpportfolio.com)
+[![South Vibe Coding Club](https://img.shields.io/badge/South%20Vibe%20Coding%20Club-southvibecoding.com-4B32C3?style=flat-square&logo=codeforces&logoColor=white)](https://southvibecoding.com)
 
-There are several ways of editing your application.
+</div>
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## About Me
 
-Changes made via Lovable will be committed automatically to this repo.
+I'm a Computer Science & AI student at Stevens Institute of Technology (iSTEM), based in Hoboken, NJ. I build full-stack web apps, data platforms, and games — and I founded a coding club to help other students do the same.
 
-**Use your preferred IDE**
+- 🎓 Studying Computer Science & AI at Stevens Institute of Technology (Class of 2030)
+- 🚀 Founder of **[DataMCE](https://datamce.com)** — Data & AI Student Innovators Program (SQL, Snowflake, AI)
+- 🚀 Founder of **[South Vibe Coding Club](https://southvibecoding.com)** — 30+ members
+- 💼 Former Finance/Data Intern at **NovoCPA** (Summer 2025)
+- 🏆 Certifications: **SnowPro Associate**, **CompTIA Tech+**, **CS50AI**, multiple Certiport credentials
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Skills
 
-Follow these steps:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git/GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Featured Projects
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Web Apps & Platforms
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+| Project | Description | Stack |
+|---|---|---|
+| **[southflorida-waterwatch](https://github.com/cgpportfolio/southflorida-waterwatch)** — [WaterQualityFL.com](https://waterqualityfl.com) | Live, Snowflake-powered environmental monitoring platform tracking water quality data across South Florida | TypeScript, Snowflake |
+| **[south-vibe-coding](https://github.com/cgpportfolio/south-vibe-coding)** — [southvibecoding.com](https://southvibecoding.com) | Site and platform for the coding club I founded, now 30+ members strong | TypeScript |
+| **[flipmaster-insights](https://github.com/cgpportfolio/flipmaster-insights)** | Car flip deal analyzer with a multi-platform search link generator to help spot undervalued listings | TanStack Start, React, Cloudflare Workers |
+| **[forensic-mafia](https://github.com/cgpportfolio/forensic-mafia)** | "Forensic Mafia" web app | Next.js, Supabase |
+| **[cgpportfolio](https://github.com/cgpportfolio/cgpportfolio)** — [cgpportfolio.com](https://cgpportfolio.com) | This portfolio site — source for my personal site | Vite, React, TypeScript, shadcn-ui, Tailwind CSS |
 
-**Edit a file directly in GitHub**
+### Games (Godot)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+| Project | Description | Stack |
+|---|---|---|
+| **[island-of-the-lost](https://github.com/cgpportfolio/island-of-the-lost)** | 2D adventure game | Godot, GDScript |
+| **[sacrifice-game](https://github.com/cgpportfolio/sacrifice-game)** | Original game project | Godot, GDScript |
 
-**Use GitHub Codespaces**
+### Coursework & Practice
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+| Project | Description | Stack |
+|---|---|---|
+| **[Computer-science-A-java-projects](https://github.com/cgpportfolio/Computer-science-A-java-projects)** | Java projects from coursework | Java |
+| **[python-grind](https://github.com/cgpportfolio/python-grind)** | Rebuilding Python fundamentals chapter-by-chapter through *Automate the Boring Stuff*, with hands-on practice projects | Python |
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## GitHub Stats
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+<div align="center">
 
-## How can I deploy this project?
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgpportfolio&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgpportfolio&layout=compact&hide_border=true)
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+</div>
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+<div align="center">
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+📫 Reach me at **web.charleshappy@gmail.com**
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+</div>
